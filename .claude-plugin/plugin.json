@@ -1,0 +1,6 @@
+{
+  "name": "ssh-panel",
+  "version": "0.1.0",
+  "description": "SSH-Zugänge pro Projekt per Klick freigeben und entziehen (nutzt ~/Claude/ssh/bin/ssh-zugang)",
+  "types": "./types/index.d.ts"
+}
